@@ -1,4 +1,4 @@
-A quick fix to your over-large PyInstaller executables. 
+**A quick fix to your over-large PyInstaller executables. **
 
 
 How to use: 
