@@ -1,7 +1,7 @@
-**A quick fix to your over-large PyInstaller executables.**
+# **A quick fix to your over-large PyInstaller executables.**
 
 
-How to use: 
+## How to use: 
 
 Download the files in the directory you want the virtual environment to be installed. 
 
