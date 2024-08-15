@@ -19,7 +19,7 @@ def get_preinstalled_libraries():
         preinstalled.add(module.name)
     return preinstalled
 
-listof = libfinder.get_modules(file_main)
+listof = libfinder.get_libs(file_main)
 print( "\n List of imports", listof)
 
 def read_libraries_from_file(filename):
