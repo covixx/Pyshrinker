@@ -2,7 +2,7 @@ import os
 import re
 import importlib.util
 
-def get_modules(folder_path):
+def get_libs(folder_path):
     # Traverse the folder recursively
     libraries = set()
     for root, dirs, files in os.walk(folder_path):
